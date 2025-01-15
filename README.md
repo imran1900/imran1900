@@ -10,7 +10,7 @@ Welcome to my portfolio, here is where I showcase my projects.
  
 ## Tools 🔨
 
-- Languages: Python, MS Excel VBA
+- Languages: Python, MS Excel
 - Database Management: MySQL, Visual Studio Code, Google BigQuery
 - Visualization: Tableau, Powder BI, Looker
 
