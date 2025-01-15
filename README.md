@@ -4,10 +4,10 @@ Hi, my name is Imran Mohamad Qabil an aspiring Data Analyst with knowledge in da
 - Visualize data and develop dashboards through Tableau/ Power BI/ Looker Studio.
 - Data Analysis and reporting using MS Excel.
 
-  📖**Projects**
-  Welcome to my portfolio, here is where I showcase my projects.
+📖**Projects**
+Welcome to my portfolio, here is where I showcase my projects.
 
-  🔨**Tools**
-  1. Languages: Python, MS Excel VBA
-  2. Database Management: MySQL, Visual Studio Code, Google BigQuery
-  3. Visualization: Tableau, Powder BI, Looker
+🔨**Tools** 
+- Languages: Python, MS Excel VBA
+- Database Management: MySQL, Visual Studio Code, Google BigQuery
+- Visualization: Tableau, Powder BI, Looker
