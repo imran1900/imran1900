@@ -5,9 +5,11 @@ Hi, my name is Imran Mohamad Qabil an aspiring Data Analyst with knowledge in da
 - Data Analysis and reporting using MS Excel.
 
 📖**Projects**
+
 Welcome to my portfolio, here is where I showcase my projects.
 
 🔨**Tools** 
+
 - Languages: Python, MS Excel VBA
 - Database Management: MySQL, Visual Studio Code, Google BigQuery
 - Visualization: Tableau, Powder BI, Looker
