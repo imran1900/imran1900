@@ -6,7 +6,7 @@ Hi, my name is Imran Mohamad Qabil an aspiring Data Analyst with knowledge in da
 
 ## Projects 📖
 
-Welcome to my portfolio, here is where I showcase my (projects)[https://github.com/imran1900/Portfolio/tree/main].
+Welcome to my portfolio, here is where I showcase my [projects](https://github.com/imran1900/Portfolio/tree/main).
  
 ## Tools 🔨
 
